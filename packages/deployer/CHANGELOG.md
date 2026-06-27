@@ -1,5 +1,13 @@
 # @mastra/deployer
 
+## 1.48.0-alpha.1
+
+### Patch Changes
+
+- Updated dependencies [[`95857bc`](https://github.com/mastra-ai/mastra/commit/95857bcd6669da7193f503e803f0d72a2bd66be6)]:
+  - @mastra/core@1.48.0-alpha.1
+  - @mastra/server@1.48.0-alpha.1
+
 ## 1.48.0-alpha.0
 
 ### Patch Changes

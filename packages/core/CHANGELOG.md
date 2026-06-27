@@ -1,5 +1,11 @@
 # @mastra/core
 
+## 1.48.0-alpha.1
+
+### Patch Changes
+
+- fix: prevent partial gateway sync from corrupting provider registry ([#18545](https://github.com/mastra-ai/mastra/pull/18545))
+
 ## 1.48.0-alpha.0
 
 ### Minor Changes
